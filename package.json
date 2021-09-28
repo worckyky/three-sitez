@@ -2,7 +2,7 @@
   "name": "treejs-sitez",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eloquent-lalande-26c976.netlify.app/",
+  "homepage": ".",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
