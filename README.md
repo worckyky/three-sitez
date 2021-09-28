@@ -1,4 +1,4 @@
-# treejs-sitez
+# threejs-sitez
 
 ## Project setup
 ```
