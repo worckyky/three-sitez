@@ -2,7 +2,7 @@
   "name": "treejs-sitez",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://worckyky.github.io/three-sitez/",
+  "homepage": "https://eloquent-lalande-26c976.netlify.app/",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
